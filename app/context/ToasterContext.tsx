@@ -4,7 +4,7 @@ import React from 'react'
 
 const ToasterContext = () => {
   return (
-    <div>ToasterContext</div>
+    <div></div>
   )
 }
 
